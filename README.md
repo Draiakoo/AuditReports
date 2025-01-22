@@ -4,7 +4,7 @@ I am a passionate Web3 security researcher specializing in identifying vulnerabi
 
 I have been ranked 7th on the all-time leaderboard at Codehawks and 2nd as a judge, helping assess and guide other participants' contributions.
 
-Over the course of more than a year of competing, I have been rewarded with over $60000. Below, you can find a breakdown of all the security competitions I’ve participated in, including relevant information on each.
+Over the course of almost 2 years of competing, I have been rewarded with over $60000. Below, you can find a breakdown of all the security competitions I’ve participated in, including relevant information on each.
 
 You can find me on [Code4rena](https://code4rena.com/@Draiakoo), [Codehawks](https://profiles.cyfrin.io/u/draiakoo), [Cantina](https://cantina.xyz/u/Draiakoo), and [Immunefi](https://immunefi.com/profile/Draiakoo/). If you would like to contact me, feel free to reach out via [X](https://twitter.com/Draiakoo).
 
