@@ -2,9 +2,9 @@
 # About Draiakoo
 I am a passionate Web3 security researcher specializing in identifying vulnerabilities across decentralized protocols and smart contracts. With a deep commitment to ensuring the safety of user funds, I actively participate in public audit contests on prominent platforms such as Code4rena, Cantina, and Codehawks. My goal is always to provide the highest value to the protocols, using my current knowledge and expertise.
 
-I have been ranked 7th on the all-time leaderboard at Codehawks and 2nd as a judge, helping assess and guide other participants' contributions.
+I am ranked 1st on the all-time leaderboard at Codehawks and 2nd as a judge, helping assess and guide other participants' contributions.
 
-Over the course of almost 2 years of competing, I have been rewarded with over $60000. Below, you can find a breakdown of all the security competitions I’ve participated in, including relevant information on each.
+Over the course of almost 2 years of competing, I have been rewarded with almost $300 000. Below, you can find a breakdown of all the security competitions I’ve participated in, including relevant information on each.
 
 You can find me on [Code4rena](https://code4rena.com/@Draiakoo), [Codehawks](https://profiles.cyfrin.io/u/draiakoo), [Cantina](https://cantina.xyz/u/Draiakoo), and [Immunefi](https://immunefi.com/profile/Draiakoo/). If you would like to contact me, feel free to reach out via [X](https://twitter.com/Draiakoo).
 
@@ -23,7 +23,7 @@ You can find me on [Code4rena](https://code4rena.com/@Draiakoo), [Codehawks](htt
 | Chakra                    | The first modular settlement layer designed to unlock Bitcoin's liquidity across diverse blockchain ecosystems.  | Code4rena  | 4H 5M | 785.61$ | 13  | [Report](/code4rena/2024-02-ai-arena.md) |
 | Starknet Staking          | As Starknet continues its decentralized journey, we present StarkWare’s proposal for the first stage of staking. This is an important step in building the staking community and technology, offering new opportunities for users and developers. This contest scope covers the staking mechanism for Starknet Improvement Proposal 18.  | Codehawks  | 2H | 2267.37$ | 8 | Private |
 | Instadapp Fluid DEX       | Fluid DEX protocol is a novel protocol that is built on top of the Liquidity Layer and introduces Smart Debt and Smart Collateral.  | Cantina  | 1M | 8950.27$ | 2  | [Leaderboard](https://cantina.xyz/competitions/3a42798b-b1aa-4b10-b5e4-a8bbc22a70bc/leaderboard) |
-| ZKsync                    | ZKsync Era is an EVM compatible layer 2 rollup that uses zero-knowledge proofs to scale Ethereum without compromising on security or decentralization.  | Codehawks  | ? | ? | ?  | Judging |
+| ZKsync                    | ZKsync Era is an EVM compatible layer 2 rollup that uses zero-knowledge proofs to scale Ethereum without compromising on security or decentralization.  | Codehawks  | Private | 236133.47$ | 1  | Private |
 | QuantAMM                  | QuantAMM is a next generation DeFi protocol launching Blockchain Traded Funds (BTFs). LPs are no longer only chasing swap fees: the weights of the pool change to take advantage of current underlying price movements and therefore can overcome MEV and Impermanent Loss. QuantAMM does this in a continuous, responsive way with advanced, fully on-chain TradFi-style strategies.  | Codehawks  | ? | ? | ?  | Judging |
 
 # Contest Judging
