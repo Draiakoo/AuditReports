@@ -44,4 +44,5 @@ You can find me on [Code4rena](https://code4rena.com/@Draiakoo), [Codehawks](htt
 | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------- | ------- | ------- |
 | Valkyrie     | Uniswap V4, Staking, Incentives  | Cyfrin  | Private | Private |                                                                                           
 | MetaMask    | ERC4337, EIP7702  | Cyfrin  | Private | Private |
-| Synthetix    | Stablecoin  | Guardian Audits  | Private | Private |
+| Synthetix    | Perpetuals, Stablecoin  | Guardian Audits  | Private | Private |
+| BunniV2    | Uniswap V4  | Cyfrin  | Private | Private |
